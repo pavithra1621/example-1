@@ -1,0 +1,3 @@
+[submodule "example-2"]
+	path = example-2
+	url = https://github.com/pavithra1621/example-2.git
